@@ -34,7 +34,7 @@ export default {
       this.current=current
     },
     goBooks(){
-      wx.navigateTo({
+      wx.switchTab({
         url: '/pages/Books/main'
       })
     }

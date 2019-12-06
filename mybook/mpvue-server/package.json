@@ -1,0 +1,9 @@
+{
+  "name": "mpvue-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-router": "^7.4.0",
+    "nodemon": "^2.0.1"
+  }
+}
