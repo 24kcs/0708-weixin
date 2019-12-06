@@ -1,7 +1,8 @@
 {
   "pages": [
+    "pages/Books/main",
     "pages/FirstView/main",
-    "pages/Books/main"
+    "pages/BookList/main"
   ],
   "window": {
     "navigationBarBackgroundColor": "#02a774",
